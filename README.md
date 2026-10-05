@@ -1,9 +1,9 @@
 ## Fl3xi
-  About me
+  **About me**
   
   I'm Tibo, a Computer Science student from Belgium @UCLL
 
 
-  Contact
+  **Contact**
   
   hello@fl3xi.dev
